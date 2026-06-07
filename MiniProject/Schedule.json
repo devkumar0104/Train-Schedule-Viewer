@@ -1,0 +1,359 @@
+[
+  {
+    "train_number": "12951",
+    "train_name": "Mumbai Rajdhani Express",
+    "route": ["Mumbai Central", "Borivali", "Surat", "Vadodara", "Ratlam", "Kota", "Mathura", "New Delhi"],
+    "schedule": { "departure_time": "17:00", "arrival_time": "08:35" },
+    "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+  },
+  {
+    "train_number": "12050",
+    "train_name": "Gatimaan Express",
+    "route": ["Hazrat Nizamuddin", "Agra Cantt", "Gwalior", "Jhansi"],
+    "schedule": { "departure_time": "08:10", "arrival_time": "11:50" },
+    "operating_days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+  },
+  {
+    "train_number": "12627",
+    "train_name": "Karnataka Express",
+    "route": ["New Delhi", "Agra Cantt", "Jhansi", "Bhopal", "Nagpur", "Balharshah", "Secunderabad", "Guntakal", "Bengaluru"],
+    "schedule": { "departure_time": "20:45", "arrival_time": "06:10" },
+    "operating_days": ["Mon", "Wed", "Fri"]
+  },
+  {
+    "train_number": "12301",
+    "train_name": "Howrah Rajdhani Express",
+    "route": ["Howrah", "Dhanbad", "Gaya", "Pt. Deen Dayal Upadhyaya", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "16:55", "arrival_time": "10:05" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12430",
+    "train_name": "New Delhi - Lucknow AC SF Express",
+    "route": ["New Delhi", "Ghaziabad", "Moradabad", "Bareilly", "Lucknow"],
+    "schedule": { "departure_time": "20:50", "arrival_time": "06:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12229",
+    "train_name": "Lucknow Duronto Express",
+    "route": ["Lucknow", "New Delhi"],
+    "schedule": { "departure_time": "23:15", "arrival_time": "06:10" },
+    "operating_days": ["Tue", "Fri"]
+  },
+  {
+    "train_number": "12002",
+    "train_name": "Bhopal Shatabdi Express",
+    "route": ["New Delhi", "Mathura", "Agra Cantt", "Jhansi", "Bhopal"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "14:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12295",
+    "train_name": "Sanghamitra Express",
+    "route": ["Patna", "Mughalsarai", "Allahabad", "Jabalpur", "Nagpur", "Secunderabad", "Bengaluru"],
+    "schedule": { "departure_time": "19:55", "arrival_time": "08:50" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12622",
+    "train_name": "Tamil Nadu Express",
+    "route": ["New Delhi", "Agra Cantt", "Jhansi", "Bhopal", "Nagpur", "Vijayawada", "Chennai"],
+    "schedule": { "departure_time": "22:30", "arrival_time": "06:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12953",
+    "train_name": "August Kranti Rajdhani",
+    "route": ["Mumbai Central", "Surat", "Vadodara", "Ratlam", "Kota", "Mathura", "New Delhi"],
+    "schedule": { "departure_time": "17:40", "arrival_time": "10:55" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12018",
+    "train_name": "Dehradun Shatabdi Express",
+    "route": ["New Delhi", "Ghaziabad", "Meerut", "Muzaffarnagar", "Roorkee", "Haridwar", "Dehradun"],
+    "schedule": { "departure_time": "06:45", "arrival_time": "12:50" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12296",
+    "train_name": "Chennai Express",
+    "route": ["Bengaluru", "Katpadi", "Arakkonam", "Chennai"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "11:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12302",
+    "train_name": "New Delhi Howrah Rajdhani",
+    "route": ["New Delhi", "Kanpur", "Prayagraj", "Pt. Deen Dayal Upadhyaya", "Gaya", "Dhanbad", "Howrah"],
+    "schedule": { "departure_time": "17:00", "arrival_time": "10:05" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12014",
+    "train_name": "Amritsar Shatabdi Express",
+    "route": ["New Delhi", "Ambala", "Ludhiana", "Jalandhar", "Amritsar"],
+    "schedule": { "departure_time": "07:20", "arrival_time": "13:35" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12237",
+    "train_name": "Vande Bharat Express",
+    "route": ["New Delhi", "Kanpur", "Prayagraj", "Varanasi"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "14:00" },
+    "operating_days": ["Tue", "Wed", "Fri", "Sat", "Sun"]
+  },
+  {
+    "train_number": "12910",
+    "train_name": "BDTS Garib Rath",
+    "route": ["Hazrat Nizamuddin", "Mathura", "Kota", "Ratlam", "Vadodara", "Surat", "Borivali", "Bandra Terminus"],
+    "schedule": { "departure_time": "16:00", "arrival_time": "08:10" },
+    "operating_days": ["Mon", "Wed", "Fri"]
+  },
+  {
+    "train_number": "12305",
+    "train_name": "Rajdhani Express",
+    "route": ["Howrah", "Dhanbad", "Gaya", "Pt. Deen Dayal Upadhyaya", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "14:05", "arrival_time": "10:05" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12005",
+    "train_name": "Kalka Shatabdi Express",
+    "route": ["New Delhi", "Ambala", "Chandigarh", "Kalka"],
+    "schedule": { "departure_time": "07:40", "arrival_time": "11:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12615",
+    "train_name": "Grand Trunk Express",
+    "route": ["Chennai", "Vijayawada", "Nagpur", "Bhopal", "Jhansi", "Agra Cantt", "New Delhi"],
+    "schedule": { "departure_time": "18:45", "arrival_time": "06:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12280",
+    "train_name": "Taj Express",
+    "route": ["New Delhi", "Faridabad", "Palwal", "Mathura", "Agra Cantt", "Gwalior", "Jhansi"],
+    "schedule": { "departure_time": "07:00", "arrival_time": "13:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12616",
+    "train_name": "Grand Trunk Express",
+    "route": ["New Delhi", "Agra Cantt", "Jhansi", "Bhopal", "Nagpur", "Vijayawada", "Chennai"],
+    "schedule": { "departure_time": "18:45", "arrival_time": "06:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12019",
+    "train_name": "Shatabdi Express",
+    "route": ["Howrah", "Barddhaman", "Bolpur", "Malda Town", "New Jalpaiguri"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "13:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12296",
+    "train_name": "Chennai Express",
+    "route": ["Bengaluru", "Katpadi", "Arakkonam", "Chennai"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "11:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12801",
+    "train_name": "Puri New Delhi Purushottam Express",
+    "route": ["Puri", "Bhubaneswar", "Cuttack", "Kharagpur", "Asansol", "Gaya", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "21:45", "arrival_time": "04:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12423",
+    "train_name": "Rajdhani Express",
+    "route": ["Dibrugarh", "Guwahati", "New Jalpaiguri", "Katihar", "Patna", "Mughalsarai", "New Delhi"],
+    "schedule": { "departure_time": "14:25", "arrival_time": "10:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12687",
+    "train_name": "Madurai Express",
+    "route": ["Chennai", "Villupuram", "Tiruchchirappalli", "Dindigul", "Madurai"],
+    "schedule": { "departure_time": "22:05", "arrival_time": "06:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12903",
+    "train_name": "Golden Temple Mail",
+    "route": ["Mumbai Central", "Vadodara", "Ratlam", "Kota", "Mathura", "New Delhi", "Ambala", "Ludhiana", "Amritsar"],
+    "schedule": { "departure_time": "21:25", "arrival_time": "05:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12393",
+    "train_name": "Sampoorn Kranti Express",
+    "route": ["Rajendra Nagar", "Patna", "Mughalsarai", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "19:25", "arrival_time": "05:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12860",
+    "train_name": "Gitanjali Express",
+    "route": ["Mumbai CST", "Nasik", "Bhusaval", "Nagpur", "Raipur", "Bilaspur", "Kharagpur", "Howrah"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "13:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12659",
+    "train_name": "Ganga Kaveri Express",
+    "route": ["Chennai", "Vijayawada", "Nagpur", "Jabalpur", "Prayagraj", "Patna"],
+    "schedule": { "departure_time": "17:40", "arrival_time": "05:30" },
+    "operating_days": ["Mon", "Thu"]
+  },
+  {
+    "train_number": "12311",
+    "train_name": "Kalka Mail",
+    "route": ["Howrah", "Asansol", "Gaya", "Pt. Deen Dayal Upadhyaya", "Kanpur", "New Delhi", "Ambala", "Kalka"],
+    "schedule": { "departure_time": "19:40", "arrival_time": "04:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12641",
+    "train_name": "Thirukkural Express",
+    "route": ["Kanyakumari", "Madurai", "Tiruchchirappalli", "Chennai", "Vijayawada", "Nagpur", "Bhopal", "Agra Cantt", "Hazrat Nizamuddin"],
+    "schedule": { "departure_time": "06:30", "arrival_time": "18:00" },
+    "operating_days": ["Tue", "Fri"]
+  },
+  {
+    "train_number": "12267",
+    "train_name": "Duronto Express",
+    "route": ["Mumbai CST", "Nagpur", "Raipur", "Bilaspur", "Howrah"],
+    "schedule": { "departure_time": "20:15", "arrival_time": "15:30" },
+    "operating_days": ["Mon", "Thu", "Sat"]
+  },
+  {
+    "train_number": "12497",
+    "train_name": "Shane Punjab Express",
+    "route": ["New Delhi", "Ambala", "Ludhiana", "Jalandhar", "Amritsar"],
+    "schedule": { "departure_time": "06:40", "arrival_time": "13:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12621",
+    "train_name": "Tamil Nadu Express",
+    "route": ["Chennai", "Vijayawada", "Nagpur", "Bhopal", "Jhansi", "Agra Cantt", "New Delhi"],
+    "schedule": { "departure_time": "22:30", "arrival_time": "06:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12309",
+    "train_name": "Rajdhani Express",
+    "route": ["Rajendra Nagar", "Patna", "Mughalsarai", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "19:25", "arrival_time": "05:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12952",
+    "train_name": "Mumbai Rajdhani Express",
+    "route": ["New Delhi", "Mathura", "Kota", "Ratlam", "Vadodara", "Surat", "Borivali", "Mumbai Central"],
+    "schedule": { "departure_time": "16:25", "arrival_time": "08:15" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12010",
+    "train_name": "Shatabdi Express",
+    "route": ["Ahmedabad", "Nadiad", "Vadodara", "Surat", "Mumbai Central"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "13:30" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12244",
+    "train_name": "Duronto Express",
+    "route": ["Hazarat Nizamuddin", "Kota", "Ratlam", "Vadodara", "Surat", "Mumbai Central"],
+    "schedule": { "departure_time": "23:55", "arrival_time": "16:00" },
+    "operating_days": ["Tue", "Fri"]
+  },
+  {
+    "train_number": "12313",
+    "train_name": "Sealdah Rajdhani Express",
+    "route": ["Sealdah", "Dhanbad", "Gaya", "Pt. Deen Dayal Upadhyaya", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "16:50", "arrival_time": "10:10" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12426",
+    "train_name": "Jammu Rajdhani Express",
+    "route": ["New Delhi", "Ambala", "Ludhiana", "Jalandhar", "Pathankot", "Jammu Tawi"],
+    "schedule": { "departure_time": "20:40", "arrival_time": "05:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12008",
+    "train_name": "Shatabdi Express",
+    "route": ["Bangalore", "Hosur", "Salem", "Erode", "Coimbatore"],
+    "schedule": { "departure_time": "06:00", "arrival_time": "12:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12245",
+    "train_name": "Duronto Express",
+    "route": ["Yesvantpur", "Pune", "Surat", "Vadodara", "Ahmedabad"],
+    "schedule": { "departure_time": "23:00", "arrival_time": "14:30" },
+    "operating_days": ["Mon", "Thu"]
+  },
+  {
+    "train_number": "12367",
+    "train_name": "Vikramshila Express",
+    "route": ["Bhagalpur", "Jamui", "Patna", "Mughalsarai", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "11:50", "arrival_time": "06:45" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12402",
+    "train_name": "Magadh Express",
+    "route": ["Islampur", "Patna", "Mughalsarai", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "15:30", "arrival_time": "06:00" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12861",
+    "train_name": "Link Express",
+    "route": ["Visakhapatnam", "Vijayawada", "Warangal", "Secunderabad", "Nagpur", "Bhopal", "Jhansi", "Agra Cantt", "New Delhi"],
+    "schedule": { "departure_time": "20:00", "arrival_time": "10:30" },
+    "operating_days": ["Tue", "Fri"]
+  },
+  {
+    "train_number": "12954",
+    "train_name": "August Kranti Rajdhani",
+    "route": ["New Delhi", "Mathura", "Kota", "Ratlam", "Vadodara", "Surat", "Mumbai Central"],
+    "schedule": { "departure_time": "17:40", "arrival_time": "10:55" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12238",
+    "train_name": "Vande Bharat Express",
+    "route": ["Varanasi", "Prayagraj", "Kanpur", "New Delhi"],
+    "schedule": { "departure_time": "15:00", "arrival_time": "23:00" },
+    "operating_days": ["Tue", "Wed", "Fri", "Sat", "Sun"]
+  },
+  {
+    "train_number": "12006",
+    "train_name": "Kalka Shatabdi Express",
+    "route": ["Kalka", "Chandigarh", "Ambala", "New Delhi"],
+    "schedule": { "departure_time": "17:45", "arrival_time": "21:50" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12306",
+    "train_name": "Rajdhani Express",
+    "route": ["New Delhi", "Kanpur", "Prayagraj", "Pt. Deen Dayal Upadhyaya", "Gaya", "Dhanbad", "Howrah"],
+    "schedule": { "departure_time": "16:55", "arrival_time": "10:05" },
+    "operating_days": ["Daily"]
+  },
+  {
+    "train_number": "12431",
+    "train_name": "Thirukkural Express",
+    "route": ["Hazrat Nizamuddin", "Agra Cantt", "Bhopal", "Nagpur", "Vijayawada", "Chennai", "Madurai", "Kanyakumari"],
+    "schedule": { "departure_time": "05:30", "arrival_time": "21:30" },
+    "operating_days": ["Wed", "Sat"]
+  }
+]
